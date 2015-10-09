@@ -17,5 +17,6 @@ public class C31Test {
 	public void testC31(){
 		assertEquals("m1", c31.m1());
 		assertEquals("m2", c31.m2());
+		assertEquals("mB", c31.mB());
 	}
 }
