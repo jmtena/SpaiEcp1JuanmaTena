@@ -17,5 +17,6 @@ public class C21Test {
 	public void testC21(){
 		assertEquals("m1", c21.m1());
 		assertEquals("m2", c21.m2());
+		assertEquals("m3", c21.m3());
 	}
 }
